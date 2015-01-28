@@ -1,0 +1,30 @@
+{
+  "name": "hypem-favs",
+  "version": "0.0.1",
+  "description": "Get your Hypem Machine Favorites",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/apburnes/hypem-favs"
+  },
+  "homepage": "https://github.com/apburnes/node-socrata",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "Hypem",
+    "Hype Machine",
+    "Favorites",
+    "scrape"
+  ],
+  "author": "Andy B <bizzurnzz@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.0.0",
+    "request": "^2.51.0"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0"
+  }
+}
